@@ -1,1 +1,1 @@
-{ "version": "0.5.0-beta.11", "page": "https://github.com/moonsugugu/neis-launcher-download/releases/tag/v0.5.0-beta.11", "notes": "접기 모드에서 창 크기가 어긋나던 것을 고쳤어요(창 크게 상태에서 접었다 펴기, 두 번 누르기·화면 위로 끌어 붙이기, 막대 옮긴 뒤 펴기). [EDUITIT ▼]에 에듀잇티 사이트·쓰레드 단추." }
+{ "version": "2.0.0", "page": "https://github.com/moonsugugu/neis-launcher-download/releases/tag/v2.0.0", "notes": "ver. 2.0 정식판이에요. 출결·누가기록 넣기, 미니 모드 기본, 접기 모드 크기 오류 고침, 최소화 토글 옮기기, 앱 디자인 15가지와 색감, 머리줄 단추. 익명 사용 통계를 보내요(⚙ 설정에서 끌 수 있음)." }
