@@ -5,8 +5,8 @@
 예전 이름은 '나이스자동리모컨'이에요. 시험판 0.5.0-beta.10부터 '나이스리모컨'으로 바뀌었고, 설정·즐겨찾기는 그대로 이어져요.
 
 ## 받는 방법
-1. [릴리스 목록](https://github.com/moonsugugu/neis-launcher-download/releases)에서 `NEIS-Remote-Eduitit-Setup-<버전>.exe`를 내려받아요.
-   - 지금 버전: [ver. 2.0.1 바로 받기](https://github.com/moonsugugu/neis-launcher-download/releases/download/v2.0.1/NEIS-Remote-Eduitit-Setup-2.0.1.exe)
+1. **[최신 버전 바로 받기](https://github.com/moonsugugu/neis-launcher-download/releases/latest/download/NEIS-Remote-Eduitit-Setup.exe)**: 이 주소는 늘 가장 새 버전을 받아요(지금은 ver. 2.0.1).
+   - 버전 번호가 붙은 파일은 [릴리스 목록](https://github.com/moonsugugu/neis-launcher-download/releases)에 있어요.
 2. 받은 파일을 실행하면 설치돼요. 관리자 권한은 필요 없어요.
 
 처음 실행할 때 Windows가 "PC를 보호했습니다"를 띄우면 **추가 정보 → 실행**을 누르세요. 서명이 없는 프로그램이라 나오는 경고예요.
