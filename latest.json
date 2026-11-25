@@ -1,1 +1,1 @@
-{ "version": "2.0.1", "page": "https://github.com/moonsugugu/neis-launcher-download/releases/tag/v2.0.1", "notes": "선생님들이 알려 주신 오류를 고쳤어요. 로그인 전에 다른 버튼을 누르면 ⏻ 업무포털 로그인부터 알려 주고, 껐다 켠 뒤 K-에듀파인이 안 열리던 것과 메이커가 Google 로그인 뒤 새로고침해야 뜨던 것을 고쳤어요." }
+{"version":"2.0.2","page":"https://github.com/moonsugugu/neis-launcher-download/releases/tag/v2.0.2","notes":"시간이 지나도 업무포털·나이스·K-에듀파인이 로그아웃되지 않게 로그인 유지를 넣었어요(⚙ 설정에서 끌 수 있어요). 로그인 직후 나이스에서 '권한이 없거나…' 창이 떠서 다시 눌러야 했던 것을 고쳤어요."}
