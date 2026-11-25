@@ -1,1 +1,1 @@
-{"version":"2.0.2","page":"https://github.com/moonsugugu/neis-launcher-download/releases/tag/v2.0.2","notes":"시간이 지나도 업무포털·나이스·K-에듀파인이 로그아웃되지 않게 로그인 유지를 넣었어요(⚙ 설정에서 끌 수 있어요). 로그인 직후 나이스에서 '권한이 없거나…' 창이 떠서 다시 눌러야 했던 것을 고쳤어요."}
+{"version":"2.0.3","page":"https://github.com/moonsugugu/neis-launcher-download/releases/tag/v2.0.3","notes":"프로그램이 켜져 있는 동안 업무포털·나이스(2차인증 포함)·K-에듀파인 로그인이 계속 이어지게 했어요. ⚙ 설정의 '로그인 유지'에서 끌 수 있어요."}
